@@ -1,0 +1,11 @@
+{
+  "servers": [
+    {
+      "name": "MCP Server",
+      "transport": {
+        "type": "sse",
+        "url": "http://localhost:7860/gradio_api/mcp/sse"
+      }
+    }
+  ]
+}
